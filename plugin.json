@@ -1,12 +1,12 @@
 {
-    "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
-    "ActionKeyword": "hp",
-    "Name": "Hello World Python",
-    "Description": "Python Hello World example plugin",
-    "Author": "Flow Launcher",
-    "Version": "1.0.0",
-    "Language": "python",
-    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
-    "IcoPath": "Images\\app.png",
-    "ExecuteFileName": "main.py"
+  "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+  "ActionKeyword": "bili",
+  "Name": "Bilibili Search",
+  "Description": "Bilibili search",
+  "Author": "LongXingLuoLuo",
+  "Version": "0.0.1",
+  "Language": "python",
+  "Website": "https://github.com/LongXingLuoLuo/Flow.Launcher.Plugin.BiliBiliSearch",
+  "IcoPath": "Images\\app.png",
+  "ExecuteFileName": "run.py"
 }
