@@ -1,10 +1,10 @@
 {
-  "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+  "ID": "b3df5d75-11e9-4d64-ba7c-a257ab5bb924",
   "ActionKeyword": "bili",
   "Name": "Bilibili Search",
   "Description": "Bilibili search",
   "Author": "LongXingLuoLuo",
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "Language": "python",
   "Website": "https://github.com/LongXingLuoLuo/Flow.Launcher.Plugin.BiliBiliSearch",
   "IcoPath": "Images\\app.png",

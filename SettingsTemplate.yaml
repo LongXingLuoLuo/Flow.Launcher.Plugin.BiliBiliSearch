@@ -1,0 +1,8 @@
+#$schema: https://www.flowlauncher.com/schemas/settings-template.schema.json
+body:
+  - type: input
+    attributes:
+      name: room_id_list
+      label: 关注的直播间
+      description: 数字之间用 ‘,’ 隔开
+      defaultValue: 42062,33989
